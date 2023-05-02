@@ -84,7 +84,7 @@ php bin/console b2b:clean:expired-customer-prices --force
 
 Since there is only one price here, the complete price is exceeded and a label is added so that the customer knows that this is a special arrangement.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Special case when discount rate and customer-specific prices are available for a product
 
