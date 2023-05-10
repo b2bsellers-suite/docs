@@ -82,6 +82,10 @@ _Note: In the table view, a default set of loaded variants is stored. Further va
 
 How to add more properties in the table view by the store owner, you can find in the Video "how to extend the b2b platform"
 
+{% hint style="info" %}
+You have to allow the functional cookie "useB2bList" to use this function without problems!
+{% endhint %}
+
 ![](<../../../.gitbook/assets/03 Products.png>)
 
 ## **Order history**
