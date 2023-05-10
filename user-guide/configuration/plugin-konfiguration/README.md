@@ -77,14 +77,14 @@ When activated, a button is displayed in the product view for logged-in users.
 This button is used to switch between grid and table view.
 
 {% hint style="info" %}
+You have to allow the functional cookie "useB2bList" to use this function without problems!
+{% endhint %}
+
+{% hint style="info" %}
 _Note: In the table view, a default set of loaded variants is stored. Further variants can be displayed by clicking on the "Load more" button._ Extensions > My Extensions > B2bSellersCore > Configuration
 {% endhint %}
 
 How to add more properties in the table view by the store owner, you can find in the Video "how to extend the b2b platform"
-
-{% hint style="info" %}
-You have to allow the functional cookie "useB2bList" to use this function without problems!
-{% endhint %}
 
 ![](<../../../.gitbook/assets/03 Products.png>)
 
