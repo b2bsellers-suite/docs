@@ -42,7 +42,7 @@
   * [Discount Rate](user-guide/configuration-of-purchasable-addons/discount-rate.md)
   * [Mobile sales portal (app)](user-guide/configuration-of-purchasable-addons/mobile-sales-portal-app.md)
   * [Customer-specific assortments](user-guide/configuration-of-purchasable-addons/customer-specific-assortments.md)
-  * [Eventmanager](user-guide/configuration-of-purchasable-addons/eventmanager.md)
+  * [Eventmanager (Beta)](user-guide/configuration-of-purchasable-addons/eventmanager-beta.md)
 * [Third Party Extensions](user-guide/third-party-extensions/README.md)
   * [You want to provide a plugin?](user-guide/third-party-extensions/you-want-to-provide-a-plugin.md)
 * [Performance](user-guide/performance.md)

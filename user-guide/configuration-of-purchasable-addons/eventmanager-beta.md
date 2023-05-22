@@ -2,9 +2,13 @@
 description: 'Directory: custom/plugins/B2BSellersCore/addons/B2bEventManager'
 ---
 
-# Eventmanager
+# Eventmanager (Beta)
 
 With the Event Manager, sales staff can easily create and manage events. Customers can register in the store for free or paid events. All events can be conveniently created and managed in the storefront by the sales staff (No access to the admin area necessary). Save money as no additional third party tools are needed to edit and manage the events. The Event Manager or the entire B2b Sellers Core uses Shopware Core functions such as the order process. This means that many basic functions such as shopping cart or participant management can be mapped using Shopware standard functions. All data of the event participants remains in Shopware.
+
+{% hint style="info" %}
+The event manager is currently in **beta** version. A planned release date is summer 23.
+{% endhint %}
 
 {% hint style="danger" %}
 The Event Manager is available as an addon from version 1.1.0.
