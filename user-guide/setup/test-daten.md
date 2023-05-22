@@ -9,8 +9,21 @@ description: The B2B platform has the possibility to provide test data.
 Use the following console command to install the test data:
 
 ```
-bin/console b2b:create:test-data
+bin/console b2b:test-data:create
 ```
+
+Since version 1.1.0 you can no longer create the test data directly in b2bsellercore but have to download a separate https://github.com/b2bsellers-suite/B2bDemodataPlugin for this purpose. With this additional plugin you can create more test data than before. Customers, employees, products and more.
+
+How can you install the test data plugin? Run bin/console b2b:test-data:install-plugin or download the plugin as a ZIP file directly from Github and install it as a plugin. 2. after that you have new CLI commands available:
+
+```
+bin/console b2b:test-data:create // create all test-data
+bin/console b2b:test-data:reset -f // delete all test-data
+```
+
+With these two commands you can now create or delete test data.
+
+Download: [https://github.com/b2bsellers-suite/B2bDemodataPlugin ](https://github.com/b2bsellers-suite/B2bDemodataPlugin)
 
 ## Overview
 

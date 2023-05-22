@@ -4,6 +4,10 @@ description: Everything you need to know to use features and addons
 
 # License, purchaseable Addons and Features configuration
 
+{% hint style="info" %}
+Since version 1.0.4 you can store a LicenseID in the license settings. If you don't have it at hand, you can get your LicenseId here [support@b2b-sellers.com](mailto:support@b2b-sellers.com)
+{% endhint %}
+
 ### Enable Features and Addons in Shopware Administration
 
 It couldn't be simpler. After the installation you can click in the administration in the main menu on B2B settings, then you come directly to the license settings.
