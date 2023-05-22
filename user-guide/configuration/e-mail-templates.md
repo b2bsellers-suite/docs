@@ -1,5 +1,11 @@
 # E-Mail Templates
 
+{% hint style="info" %}
+**Get info about changed mail templates**\
+\
+It is good to know that in newer B2Bsellers Suite versions, adjustments have been made to the mail templates, but these are not automatically changed in your already installed versions when you update. This is because we do not know if they may have made adjustments to the mail template. However, you are welcome to look into the mail template files directly in B2Bsellers Core and copy the content.
+{% endhint %}
+
 The B2Bsellers Suite has created a separate mail template for each email sent in the standard, which can be edited normally in the Shopware Administration.
 
 Each mail template is available in English and German and also in PLAIN and HTML. You have to add other languages yourself. All mail templates are automatically created in Shopware during installation and can then be edited.
