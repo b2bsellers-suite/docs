@@ -17,7 +17,11 @@ The b2bPlatformContext is available from anywhere. (Can be accessed from anywher
 
 ![Figure 1. This B2BPlatform Context shows that the user is an employee of a client (isEmployee: true).](<../../.gitbook/assets/example - B2BPlatformContext.png>)
 
-![Figure 2 - This B2bPlatformContext shows a loggedin sales representative who has not yet logged in to a customer employee.](<../../.gitbook/assets/example - B2BPlatformContext 2.png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/example - B2BPlatformContext 2.png" alt="Figure 2 - This B2bPlatformContext shows a loggedin sales representative who has not yet logged in to a customer employee.">
+
+</div>
 
 #### **Note alert**
 
@@ -39,6 +43,10 @@ In the employeeCustomer is the connection table between the logged-in employee a
 
 #### Examples:
 
-![Figure 3. Here will be checked whether the logged-in user is a sales employee.](<../../.gitbook/assets/example - B2BPlatformContext 4.png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/example - B2BPlatformContext 4.png" alt="Figure 3. Here will be checked whether the logged-in user is a sales employee.">
+
+</div>
 
 ![Figure 4: Here, the logged-in employee will be queried via the B2bPlatformContext. Notice. These are the general employee data, not the employees ->mapping -> Customer data.](<../../.gitbook/assets/example - B2BPlatformContext 5.png>)

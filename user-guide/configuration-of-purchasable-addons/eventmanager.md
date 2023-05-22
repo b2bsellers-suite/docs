@@ -101,10 +101,12 @@ The event category is linked in the customer dashboard. Here the user can be red
 
 ### Event category URL
 
-
+Specify here a static URL where your event listing is mapped. This link will be displayed in several places with the label "All events".
 
 ### Available Event Languages
 
 Select the possible languages that the sales staff can store as event languages
 
 ### Event Backend
+
+_Content will follow_

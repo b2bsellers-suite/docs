@@ -40,7 +40,6 @@
   * [URL Authentication](user-guide/configuration-of-purchasable-addons/url-authentication.md)
   * [Cost centers](user-guide/configuration-of-purchasable-addons/cost-centers.md)
   * [Discount Rate](user-guide/configuration-of-purchasable-addons/discount-rate.md)
-  * [Training or e-learning - event articles with attendee registration (wip)](user-guide/configuration-of-purchasable-addons/training-or-e-learning-event-articles-with-attendee-registration-wip.md)
   * [Mobile sales portal (app)](user-guide/configuration-of-purchasable-addons/mobile-sales-portal-app.md)
   * [Customer-specific assortments](user-guide/configuration-of-purchasable-addons/customer-specific-assortments.md)
   * [Eventmanager](user-guide/configuration-of-purchasable-addons/eventmanager.md)

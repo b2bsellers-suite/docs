@@ -30,7 +30,11 @@ How can you use our B2bContextTrait in your Shopware extension?
 
 With the "use" function you can add the trait to any PHP class...
 
-![](../../.gitbook/assets/111.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/111.png" alt="">
+
+</div>
 
 And then call the classes from the trait via $this->\[function-name].
 
