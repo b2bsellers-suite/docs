@@ -60,14 +60,18 @@ bin/console b2b:platform-menu:rebuild
 
 ## Create Test-Data
 
-Currently, it creates only customer and employee test-user, but further, we want to create test products for each function
+Currently, it creates customer, employee and product test data:
 
 {% content-ref url="../../../user-guide/setup/test-daten.md" %}
 [test-daten.md](../../../user-guide/setup/test-daten.md)
 {% endcontent-ref %}
 
 ```
-b2b:create:test-data
+b2b:test-data:install-plugin // to install the extra shopware plugin
+
+// after install and activate the B2bDemoData Plugin, you can call: 
+bin/console b2b:test-data:create // create all test-data
+bin/console b2b:test-data:reset -f // delete all test-data
 ```
 
 {% hint style="info" %}
