@@ -110,7 +110,3 @@ Specify here a static URL where your event listing is mapped. This link will be 
 ### Available Event Languages
 
 Select the possible languages that the sales staff can store as event languages
-
-### Event Backend
-
-_Content will follow_
