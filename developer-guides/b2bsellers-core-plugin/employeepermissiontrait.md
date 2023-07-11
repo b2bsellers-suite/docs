@@ -8,7 +8,7 @@ With the EmployeePermissionTrait you can easily check in your PHP code whether t
 
 ### What are the possible functions:
 
-<table><thead><tr><th>Function</th><th>Description</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><code>checkB2bPlatformPermission</code></td><td>Check the permission of an employee:<br><br><strong>Example code:</strong><br><code>$this->checkB2bPlatformPermission([Permissions::</code><em><code>EMPLOYEE_PERMISSION_VIEW_ALL_ORDERS</code></em><code>], $context);</code></td><td></td><td></td></tr><tr><td><code>getEmployeeRole</code></td><td><p>Return of the EmployeeRoleEntity, if a role is stored accordingly.<br><br><strong>Example:</strong> </p><p><code>$role= $this->getEmployeeRole($context);</code><br><br></p></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="291.96828046744577">Function</th><th width="249.33333333333331">Description</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><code>checkB2bPlatformPermission</code></td><td>Check the permission of an employee:<br><br><strong>Example code:</strong><br><code>$this->checkB2bPlatformPermission([Permissions::</code><em><code>EMPLOYEE_PERMISSION_VIEW_ALL_ORDERS</code></em><code>], $context);</code></td><td></td><td></td></tr><tr><td><code>getEmployeeRole</code></td><td><p>Return of the EmployeeRoleEntity, if a role is stored accordingly.<br><br><strong>Example:</strong> </p><p><code>$role= $this->getEmployeeRole($context);</code><br><br></p></td><td></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 Note (Alert): You must always pass the SalesChannelContext as a parameter.\

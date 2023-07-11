@@ -22,8 +22,4 @@ Table-name: b2b\_customer\_activity
 
 ### Associations
 
-| Field    | Entity                         | Class                     |
-| -------- | ------------------------------ | ------------------------- |
-| customer | CustomerEntity                 | ManyToOneAssociationField |
-| employee | EmployeeEntity                 | ManyToOneAssociationField |
-| type     | MegaCustomerActivityTypeEntity | ManyToOneAssociationField |
+<table><thead><tr><th width="238.70829469599607">Field</th><th width="243.88498823361266">Entity</th><th>Class</th></tr></thead><tbody><tr><td>customer</td><td>CustomerEntity</td><td>ManyToOneAssociationField</td></tr><tr><td>employee</td><td>EmployeeEntity</td><td>ManyToOneAssociationField</td></tr><tr><td>type</td><td>MegaCustomerActivityTypeEntity</td><td>ManyToOneAssociationField</td></tr></tbody></table>

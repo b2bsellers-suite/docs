@@ -135,7 +135,6 @@
   * [Offer Mail](api-references/store-api/offer-mail.md)
   * [Offer Order](api-references/store-api/offer-order.md)
   * [Offer Status](api-references/store-api/offer-status.md)
-  * [Order Extension](api-references/store-api/order-extension.md)
   * [Ordered Products](api-references/store-api/ordered-products.md)
   * [Payment Condition](api-references/store-api/payment-condition.md)
   * [Platform Cms](api-references/store-api/platform-cms.md)
@@ -148,6 +147,7 @@
 * [Admin API](api-references/admin-api/README.md)
   * [General Admin-API Info](api-references/admin-api/general-admin-api-info.md)
   * [Order Import Endpoint](api-references/admin-api/order-import-endpoint.md)
+  * [Order Extension](api-references/admin-api/order-extension.md)
 
 ## Release Notes
 

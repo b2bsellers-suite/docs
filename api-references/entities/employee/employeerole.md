@@ -21,11 +21,7 @@ Table-name: b2b\_employee\_role
 
 ### Associations
 
-| Field             | Entity                 | Class                        |
-| ----------------- | ---------------------- | ---------------------------- |
-| employeeCustomers | EmployeeCustomerEntity | OneToManyAssociationField    |
-| customer          | CustomerEntity         | ManyToOneAssociationField    |
-| name              | ToDo                   | TranslationsAssociationField |
+<table><thead><tr><th width="242">Field</th><th>Entity</th><th width="273.2517985611511">Class</th></tr></thead><tbody><tr><td>employeeCustomers</td><td>EmployeeCustomerEntity</td><td>OneToManyAssociationField</td></tr><tr><td>customer</td><td>CustomerEntity</td><td>ManyToOneAssociationField</td></tr><tr><td>name</td><td>ToDo</td><td>TranslationsAssociationField</td></tr></tbody></table>
 
 ### EmployeeRoleTranslation
 

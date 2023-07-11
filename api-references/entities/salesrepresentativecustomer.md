@@ -10,13 +10,7 @@ Table-name: b2b\_sales\_representative\_customer
 
 ### Table columns
 
-| Field      | Class          | Type     | Is required |
-| ---------- | -------------- | -------- | ----------- |
-| id         | IdField        | binary   | true        |
-| salseRepId | FkField        | binary   | true        |
-| customerId | FkField        | binary   | true        |
-| updatedAt  | UpdatedAtField | Datetime | false       |
-| createdAt  | CreatedAtField | Datetime | true        |
+<table><thead><tr><th>Field</th><th width="200.33333333333331">Class</th><th>Type</th><th>Is required</th></tr></thead><tbody><tr><td>id </td><td>IdField</td><td>binary</td><td>true</td></tr><tr><td>salseRepId</td><td>FkField</td><td>binary</td><td>true</td></tr><tr><td>customerId</td><td>FkField</td><td>binary</td><td>true</td></tr><tr><td>updatedAt</td><td>UpdatedAtField</td><td>Datetime</td><td>false</td></tr><tr><td>createdAt</td><td>CreatedAtField</td><td>Datetime</td><td>true</td></tr></tbody></table>
 
 ### Associations
 

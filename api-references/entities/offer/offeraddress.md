@@ -32,9 +32,4 @@ Table-name: b2b\_offer\_address
 
 ### Associations
 
-| Field           | Entity              | Class                      |
-| --------------- | ------------------- | -------------------------- |
-| country         | CountryEntity       | ManyToOneAssociationsField |
-| countryState    | CountryStateEntity  | ManyToOneAssociationsField |
-| orderDeliveries | OrderDeliveryEntity | OneToManyAssociationsField |
-| salutation      | SalutationEntity    | ManyToOneAssociationsField |
+<table><thead><tr><th>Field</th><th width="237.33333333333331">Entity</th><th>Class</th></tr></thead><tbody><tr><td>country</td><td>CountryEntity</td><td>ManyToOneAssociationsField</td></tr><tr><td>countryState</td><td>CountryStateEntity</td><td>ManyToOneAssociationsField</td></tr><tr><td>orderDeliveries</td><td>OrderDeliveryEntity</td><td>OneToManyAssociationsField</td></tr><tr><td>salutation</td><td>SalutationEntity</td><td>ManyToOneAssociationsField</td></tr></tbody></table>
