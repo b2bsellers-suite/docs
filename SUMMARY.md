@@ -135,6 +135,7 @@
   * [Offer Mail](api-references/store-api/offer-mail.md)
   * [Offer Order](api-references/store-api/offer-order.md)
   * [Offer Status](api-references/store-api/offer-status.md)
+  * [Order Extension](api-references/store-api/order-extension.md)
   * [Ordered Products](api-references/store-api/ordered-products.md)
   * [Payment Condition](api-references/store-api/payment-condition.md)
   * [Platform Cms](api-references/store-api/platform-cms.md)
