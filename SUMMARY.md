@@ -14,6 +14,7 @@
   * [Installation](user-guide/setup/install.md)
   * [Requirements](user-guide/setup/requirements.md)
   * [Use Test-Customers](user-guide/setup/test-daten.md)
+  * [License Settings](user-guide/setup/license-settings.md)
 * [Configuration](user-guide/configuration/README.md)
   * [License, purchaseable Addons and Features configuration](user-guide/configuration/license-purchaseable-addons-and-features-configuration.md)
   * [Configuration of the CORE](user-guide/configuration/plugin-konfiguration/README.md)
