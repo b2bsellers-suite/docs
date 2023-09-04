@@ -36,8 +36,6 @@ echo "Installing all B2bSellers Suite Plugins"
 bin/console plugin:refresh
 bin/console plugin:install -ac B2bSellersCore
 
-bin/console plugin:install -ac B2bPlatformTheme B2bProductLists B2bProductRequest B2bOffer B2bEmployeeBudgets B2bBonusProgram B2bBlocksCollection B2bEventArticle B2bSpareParts B2bCostCenter B2bCopperBrassSurcharge B2bUrlAuthentication B2bproductSubscription B2bPdpVariantList B2bRegisterRequest
-
 bin/console theme:change b2bplatformtheme
 bin/console b2b:platform:build
 
