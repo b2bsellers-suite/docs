@@ -77,6 +77,8 @@
   * [Useful Vue.js Components for the B2B Platform](developer-guides/b2bsellers-core-plugin/vue.js-b2b-platform.md)
   * [Useful Storefront Shopping World Elements](developer-guides/b2bsellers-core-plugin/storefront.md)
   * [How to import external orders and offers?](developer-guides/b2bsellers-core-plugin/integration-of-erp-orders-to-shopware-6.md)
+* [How to's](developer-guides/how-tos/README.md)
+  * [Using B2Bsellers Suite with Shopware frontends](developer-guides/how-tos/using-b2bsellers-suite-with-shopware-frontends.md)
 * [Guides for ERP-Interface](developer-guides/guides-for-erp-interface/README.md)
   * [Overview - Full integrated ERP-Systems](developer-guides/guides-for-erp-interface/overview-full-integrated-erp-systems.md)
   * [Integration of ERP orders to Shopware 6](developer-guides/guides-for-erp-interface/integration-of-erp-orders-to-shopware-6.md)
