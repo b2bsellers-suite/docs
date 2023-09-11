@@ -1,0 +1,27 @@
+version: "3"
+services:
+ b2bsellers:
+  image: dockware/dev:6.5.1.1
+  container_name: sw6_b2bsellers_suite
+  ports:
+   - "80:80"
+   - "3306:3306"
+   - "22:22"
+   - "8888:8888"
+   - "9998:9998"
+   - "9999:9999"
+  environment:
+   - XDEBUG_ENABLED=0
+  volumes:
+   - "b2b_sellers_suite:/var/www/html"
+   - "b2bsellers_db_volume:/var/lib/mysql"
+  networks:
+   - web
+volumes:
+ b2b_sellers_suite:
+  driver: local
+ b2bsellers_db_volume:
+  driver: local
+networks:
+ web:
+  external: false
