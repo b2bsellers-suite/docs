@@ -13,6 +13,7 @@
 * [Installation & Setup](user-guide/setup/README.md)
   * [Installation](user-guide/setup/install.md)
   * [Requirements](user-guide/setup/requirements.md)
+  * [Easy activate all Addons and Features](user-guide/setup/easy-activate-all-addons-and-features.md)
   * [Use Test-Customers](user-guide/setup/test-daten.md)
   * [License Settings](user-guide/setup/license-settings.md)
 * [Configuration](user-guide/configuration/README.md)
