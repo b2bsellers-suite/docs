@@ -159,6 +159,7 @@
 ## Release Notes
 
 * [B2BsellersCore](release-notes/b2bsellerscore/README.md)
+  * [Version v1.1.4 - security update](release-notes/b2bsellerscore/version-v1.1.4-security-update.md)
   * [Version v1.1.3](release-notes/b2bsellerscore/version-v1.1.3.md)
   * [Version v1.1.2](release-notes/b2bsellerscore/version-v1.1.2.md)
   * [Version v1.1.1](release-notes/b2bsellerscore/version-v1.1.1.md)
