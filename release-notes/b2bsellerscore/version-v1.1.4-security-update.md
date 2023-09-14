@@ -15,9 +15,9 @@ Release Notes
 {% hint style="info" %}
 Here you'll find our Blog post with detailed description and developer infos: \
 \
-DE => will follow\
+DE => [https://www.b2b-sellers.com/de/b2bsellers-release-1-1-4/](https://www.b2b-sellers.com/de/b2bsellers-release-1-1-4/)\
 ... or ... \
-EN => will follow
+EN => [https://www.b2b-sellers.com/en/b2bsellers-release-1-1-4/](https://www.b2b-sellers.com/en/b2bsellers-release-1-1-4/)
 {% endhint %}
 
 
