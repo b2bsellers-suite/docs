@@ -1,7 +1,21 @@
 ---
 description: Welcome at the documentation of the B2Bsellers Suite Extension for Shopware 6.
-cover: .gitbook/assets/banner_documentation (1).jpg
+cover: .gitbook/assets/banner_documentation_1_4.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Home
